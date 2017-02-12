@@ -3,6 +3,10 @@ Classic Side-Menu
 
 for Nextcloud and Owncloud
 
+
+# For newer versions see https://github.com/mtraeger/classic_side-menu
+
+
 Rebuild of the old Menu on the left side for [owncloud](http://owncloud.org/).
 
 Advantages compared to the default menu of owncloud / nextcloud are reduced clicks to open an application, as the sidebar is always visible on wide screens (wider than 1100px). Otherwise, the standard drop-down menu is available on smaller screens. It lays the focus more on all installed apps and not only on the files app.
